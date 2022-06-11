@@ -13,3 +13,7 @@
 ### Window Functions RANK() (Apr 10, 2022)
 
 - use PostgreSQL RANK() function
+
+### Monitoring (June 11, 2022)
+
+- View and terminate blocking SQLs
